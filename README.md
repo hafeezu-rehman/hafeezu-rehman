@@ -26,12 +26,6 @@ I'm a passionate Java backend developer currently working with **Spring Boot** t
 
 ---
 
-## 📈 GitHub Stats
-
-![Hafeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafeezu_rehman&show_icons=true&theme=tokyonight)
-
----
-
 ## 📬 Connect with Me
 
 - 📧 Email: hafeezurehman7851@gmail.com  
