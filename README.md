@@ -1,14 +1,38 @@
-<h1 align="center">Hi 👋, I'm Hafeez Ur Rehman</h1>
-<h3 align="center">A passionate Spring Boot developer</h3>
+# 👋 Hello, I'm Hafeez Ur Rehman
 
-- 💬 Ask me about **Spring Boot, Spring MVC**
+I'm a passionate Java backend developer currently working with **Spring Boot** to build secure, scalable, and production-grade APIs and backend systems.
 
-- 📫 How to reach me **hafeezurehman7851@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hafeezu-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafeezu-rehman" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+- 🎓 Bachelor's in Business and Information Technology (BBIT)
+- 🧠 Focused on backend development using **Spring Boot, Spring Security, and JPA**
+- 💻 Skilled in **Java**, **C**, and **C++**
+- 🛠️ Experienced with **Git**, GitHub, and VS Code
+- 🧪 Comfortable testing APIs using **Postman**
+- 🌐 Love solving problems and building real-world applications
+
+---
+
+## 💻 Tech Stack
+
+| **Frontend**      | **Backend**           | **Tools**              |
+|-------------------|-----------------------|------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)        |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)     | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
+
+---
+
+## 📈 GitHub Stats
+
+![Hafeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafeezu_rehman&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: hafeezurehman7851@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hafeezu-rehman/))  
