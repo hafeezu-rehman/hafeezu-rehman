@@ -29,4 +29,4 @@ I'm a passionate Java backend developer currently working with **Spring Boot** t
 ## 📬 Connect with Me
 
 - 📧 Email: hafeezurehman7851@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hafeezu-rehman/))  
+- 💼 LinkedIn: [linkedin.com/in/hafeezu-rehman]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hafeezu-rehman/))  
