@@ -1,32 +1,73 @@
-# 👋 Hello, I'm Hafeez Ur Rehman
+<h1 align="center">👋 Hafeez Ur Rehman - Software Engineer</h1>
 
-I'm a passionate Java backend developer currently working with **Spring Boot** to build secure, scalable, and production-grade APIs and backend systems.
+I'm **Hafeez Ur Rehman**, a Software Engineer passionate about building meaningful, user-focused software. I enjoy solving real-world problems through clean, scalable code and intuitive user experiences.
 
----
-
-## 🚀 About Me
-
-- 🎓 Bachelor's in Business and Information Technology (BBIT)
-- 🧠 Focused on backend development using **Spring Boot, Spring Security, and JPA**
-- 💻 Skilled in **Java**, **C**, and **C++**
-- 🛠️ Experienced with **Git**, GitHub, and VS Code
-- 🧪 Comfortable testing APIs using **Postman**
-- 🌐 Love solving problems and building real-world applications
+This profile highlights my interests, skills, and the technologies I enjoy using—especially in the Ruby on Rails ecosystem.
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-| **Frontend**      | **Backend**           | **Tools**              |
-|-------------------|-----------------------|------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)        |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)     | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
+As a problem solver at heart, I love turning complex requirements into elegant web applications. Whether it’s designing clean APIs, crafting beautiful UIs, or debugging tricky edge cases—I approach software engineering with curiosity, discipline, and a drive to improve.
+
+🧠 **Driven by problem solving and simplicity**  
+💡 **Enjoy building full-stack web apps from scratch**  
+🛠️ **Specialized in Ruby on Rails with Tailwind CSS & Stimulus.js**  
+📚 **Focused on writing maintainable, testable, and readable code**
 
 ---
 
-## 📬 Connect with Me
+## 🧰 Skills & Expertise
 
-- 📧 Email: hafeezurehman7851@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/hafeezu-rehman]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hafeezu-rehman/))  
+### 🔧 Back-End Development
+
+<p>
+  <img src="https://img.shields.io/badge/-Ruby_on_Rails-red?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-REST_API-green?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/-RSpec-B1342B?style=for-the-badge&logo=ruby&logoColor=white" alt="RSpec" />
+</p>
+
+---
+
+### 🌐 Front-End Development
+
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Stimulus-2B272B?style=for-the-badge" alt="Stimulus" />
+</p>
+
+---
+
+### ⚙️ Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/-Railway-000?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- ✅ Full-stack blogging platform with Rails + Tailwind  
+- ✅ Admin dashboard UI with authentication and CRUD  
+- ✅ REST API with testing using RSpec  
+- ✅ More projects in progress... stay tuned!
+
+---
+
+## 📬 Let's Connect
+
+📧 Email: **hafeezurehman7851@gmail.com**  
+💼 LinkedIn: [linkedin.com/in/hafeezu-rehman](https://linkedin.com/in/hafeezu-rehman)
+
+---
+
+_Thanks for stopping by my GitHub! I'm always open to collaboration, learning, and new opportunities._
